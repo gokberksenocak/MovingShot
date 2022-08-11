@@ -11,5 +11,5 @@ Oyunun tamamının yapımı 2 gün sürmüştür.
 ![Ekran Görüntüsü (719)](https://user-images.githubusercontent.com/102216059/184143461-f8a3029d-25b0-4910-bb49-790336f916e1.png)
 ![Ekran Görüntüsü (713)](https://user-images.githubusercontent.com/102216059/184143429-bcc4a39a-2895-4a90-b852-61b20d9d9c08.png)
 ![Ekran Görüntüsü (715)](https://user-images.githubusercontent.com/102216059/184143436-a327cb05-cd96-4c73-ae50-b8420e4fc468.png)
-![Ekran Görüntüsü (718)](https://user-images.githubusercontent.com/102216059/184143453-afcc086b-2cc1-40eb-a63b-b6fbe2473bc5.png)
 ![Ekran Görüntüsü (720)](https://user-images.githubusercontent.com/102216059/184143470-59c164cc-75b5-4923-b8ca-f21dc138b992.png)
+![Ekran Görüntüsü (718)](https://user-images.githubusercontent.com/102216059/184143453-afcc086b-2cc1-40eb-a63b-b6fbe2473bc5.png)
