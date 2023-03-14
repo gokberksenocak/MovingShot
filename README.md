@@ -4,7 +4,7 @@ Hyper-Casual olarak tasarlanmasını amaçladığım bu oyunda ekranın en alt k
 3 level olarak tasarlanan bu oyunda hareketli ve hareketsiz olmak üzere 2 çeşit pota bulunmaktadır. Ayrıca her levelda random pozisyonda doğan, top küçültme ve pota büyütme itemleri oluşmaktadır.
 Oyunun tamamının yapımı 2 gün sürmüştür.
 
-## Screenshoots 
+## Screenshots 
 
 ![Ekran Görüntüsü (712)](https://user-images.githubusercontent.com/102216059/184143420-2bc51c8d-0131-4b6a-a9e3-38f57b7333ec.png)
 ![Ekran Görüntüsü (717)](https://user-images.githubusercontent.com/102216059/184143447-36f8fa14-d7cc-4a3f-88d3-3a5b637ee68c.png)
